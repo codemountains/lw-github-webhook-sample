@@ -1,1 +1,1 @@
-# LINE WORKS Webhook sample
+# LINE WORKS x GitHub Webhook
